@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://open.spotify.com/playlist/37i9dQZF1DWZeKCadgRdKQ?si=938d24e6d5b0484e" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="darangonaut" height="30" width="40" /></a>
+<a href="https://open.spotify.com/playlist/37i9dQZF1DWZeKCadgRdKQ?si=938d24e6d5b0484e" target="blank">Spotify - Deep Focus</a>
