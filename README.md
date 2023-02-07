@@ -20,4 +20,6 @@ Web Developer
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
 
-<a href="https://open.spotify.com/playlist/37i9dQZF1DWZeKCadgRdKQ?si=938d24e6d5b0484e" target="blank">Spotify - Deep Focus</a>
+### Spotify playlist
+<p><a href="https://open.spotify.com/playlist/37i9dQZF1DWZeKCadgRdKQ?si=938d24e6d5b0484e" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="36" height="36" alt="Spotify - Deep Focus" /></a>
+  </p>
