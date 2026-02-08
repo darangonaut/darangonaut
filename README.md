@@ -29,7 +29,7 @@ I am a Full-Stack Developer with **20+ years of experience**, specializing in th
 
 #### ✅ [DoneList](https://github.com/darangonaut/DoneList)
 > **The Essence:** Apple-inspired PWA focused on daily achievements.
-> **The Tech:** React • Firebase • Framer Motion • Gemini AI integration
+> **The Tech:** React • Firebase • Framer Motion • Gemini AI
 
 #### 🖥️ [The Zen Terminal](https://github.com/darangonaut/The-Zen-Terminal)
 > **The Essence:** Minimalist retro-style task manager (PWA) designed for deep work.
@@ -39,29 +39,51 @@ I am a Full-Stack Developer with **20+ years of experience**, specializing in th
 > **The Essence:** A classless framework for developers who love Apple’s aesthetic.
 > **The Tech:** Clean CSS • Semantic HTML
 
-#### 🕹️ [Retro90s.css](https://github.com/darangonaut/Retro90s.css)
-> **The Essence:** Nostalgic framework bringing back the soul of the early web.
-> **The Tech:** CSS • Marquee • Blink
-
 ---
 
 ### 🛠️ Technical Ecosystem
 
-**Core Expertise**  
-`PHP 8.x` `Laravel` `Nette` `MySQL / PostgreSQL` `JavaScript (ES6+)`
-
-**Frontend & Modern Stack**  
-`React` `Next.js` `Vue.js` `TailwindCSS` `Firebase` `PWA`
-
-**The Workflow**  
-`Doctrine ORM` `Git` `Vite` `PHPUnit` `Clean Code` `AI Integration`
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Core Expertise</strong><br>
+      <code>PHP 8.x</code> <code>Laravel</code> <code>Nette</code><br>
+      <code>MySQL</code> <code>PostgreSQL</code> <code>JS (ES6+)</code>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Modern Stack</strong><br>
+      <code>React</code> <code>Next.js</code> <code>Vue.js</code><br>
+      <code>TailwindCSS</code> <code>Firebase</code> <code>PWA</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Current Focus</strong><br>
+      🚀 AI Agentic Workflows<br>
+      🐘 PHP 8.4 Performance<br>
+      🎨 Minimalist CSS Systems
+    </td>
+    <td width="50%" valign="top">
+      <strong>Tools & Gear</strong><br>
+      💻 VS Code • Warp Terminal<br>
+      🍎 macOS • 🐧 Linux<br>
+      🤖 Gemini CLI • Claude Code
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🎵 Flow State
-<a href="https://music.apple.com/cz/playlist/metallic-dreams/pl.u-Zmbllp1C90vv1o" target="_blank">
-  <img src="https://img.shields.io/badge/Listening_to-Metallic_Dreams-FB233B?style=flat-square&logo=apple-music&logoColor=white" alt="Apple Music" />
-</a>
+<p align="left">
+  <a href="https://music.apple.com/cz/playlist/metallic-dreams/pl.u-Zmbllp1C90vv1o" target="_blank">
+    <img src="https://img.shields.io/badge/Listening_to-Metallic_Dreams-FB233B?style=flat-square&logo=apple-music&logoColor=white" alt="Apple Music" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darangonaut&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&hide_rank=true" alt="GitHub Stats" />
+</p>
 
 <p align="right">
   <i>"Simplicity is the ultimate sophistication."</i>
