@@ -11,6 +11,8 @@
 ### **Engineering with context.**
 I am a Full-Stack Developer with **20+ years of experience** and a background in **Artificial Intelligence** (Ing.). I focus on building minimalist, high-performance web applications where clean code meets thoughtful UX. Currently, I'm bridging the gap between robust PHP backends and modern AI-driven frontends.
 
+> *"A great application is one that empowers the user to achieve their goal with absolute minimal effort."*
+
 ---
 
 ### 🚀 Selected Work
@@ -28,7 +30,7 @@ I am a Full-Stack Developer with **20+ years of experience** and a background in
 ### 🛠️ Technical Ecosystem
 
 **Core Expertise**
-> Laravel • PHP • Nette • SQL • JavaScript (ES6+)
+> PHP • Laravel • Nette • SQL • JavaScript (ES6+)
 
 **Modern Frontend & AI**
 > React • Next.js • Vue.js • TailwindCSS • Google Gemini API • PWA
@@ -43,6 +45,6 @@ I am a Full-Stack Developer with **20+ years of experience** and a background in
   <img src="https://img.shields.io/badge/Listening_to-Metallic_Dreams-FB233B?style=flat-square&logo=apple-music&logoColor=white" alt="Apple Music" />
 </a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darangonaut&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+<p align="right">
+  <i>"Simplicity is the ultimate sophistication."</i>
 </p>
