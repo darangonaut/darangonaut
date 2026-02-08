@@ -31,6 +31,10 @@ I am a Full-Stack Developer with **20+ years of experience**, specializing in th
 > **The Essence:** Apple-inspired PWA focused on daily achievements.
 > **The Tech:** React • Firebase • Framer Motion • Gemini AI integration
 
+#### 🖥️ [The Zen Terminal](https://github.com/darangonaut/The-Zen-Terminal)
+> **The Essence:** Minimalist retro-style task manager (PWA) designed for deep work.
+> **The Tech:** JavaScript • xterm.js • Firebase • CRT Effects
+
 #### 🍎 [Cupertino.css](https://github.com/darangonaut/Cupertino.css)
 > **The Essence:** A classless framework for developers who love Apple’s aesthetic.
 > **The Tech:** Clean CSS • Semantic HTML
