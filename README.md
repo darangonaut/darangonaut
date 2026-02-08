@@ -74,15 +74,22 @@ I am a Full-Stack Developer with **20+ years of experience**, specializing in th
 
 ---
 
+### 🤝 Connect & Collaborate
+I’m always open to discussing **clean architecture**, **minimalist design**, or **AI workflows**. If you share the same passion for "less but better," let's connect.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/petermarkuska" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
 ### 🎵 Flow State
 <p align="left">
   <a href="https://music.apple.com/cz/playlist/metallic-dreams/pl.u-Zmbllp1C90vv1o" target="_blank">
     <img src="https://img.shields.io/badge/Listening_to-Metallic_Dreams-FB233B?style=flat-square&logo=apple-music&logoColor=white" alt="Apple Music" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darangonaut&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&hide_rank=true" alt="GitHub Stats" />
 </p>
 
 <p align="right">
